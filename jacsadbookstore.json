@@ -1,0 +1,87 @@
+{
+    "Jacsad Book Store":["The Top 3 Books", "Kids top 3" ,  "Adult top 3"] ,
+    " The Top 3 Books":[
+        {
+            "Name":"Mina",
+            "Made":"by Christine Feehan",
+            "Price":"$11.99",
+            "Quality":"4 stars",
+            "Age":"+8",
+            "Catagorey":["Top 3 Books" , "Kids Top 3 "]
+        },
+
+        {
+            "Name":"Just Tyrus",
+            "Made":"by Tyrus",
+            "Price":"$18.99",
+            "Quality":"4.5 stars",
+            "Catagorey":["Top 3 Books" , "Adult Top 3"]
+        },
+
+        {
+            "Name":"Finding Me",
+            "Made":"by Viola Davis",
+            "Price":"$29.99",
+            "Quality":"5 stars",
+            "Catagorey":["Top 3 Books"]
+        }
+    ],
+
+
+" The Kids Top 3 Books":[
+
+        {
+            "Name":"Mina",
+            "Made":"by Christine Feehan",
+            "Price":"$11.99",
+            "Quality":"5 stars",
+            "Age":"+8",
+            "Catagorey":["Top 3 Books" , "Kids Top 3 "]
+        },
+
+        {
+            "Name":"Hooky",
+            "Made":"by Gambbit",
+            "Price":"$8.99",
+            "Quality":"4.5 stars",
+            "Catagorey":["Kids Top 3 "]
+        },
+
+        {
+            "Name":"Knight Owls",
+            "Made":"by Sam Susi",
+            "Price":"$19.99",
+            "Quality":"5 stars",
+            "Catagorey":["Kids Top 3 "]
+        }
+    ],
+
+   
+    " The Adult Top 3 Books":[
+
+        {
+            "Name":"HotShotGG",
+            "Made":"by Christine Feehan",
+            "Price":"$11.99",
+            "Quality":"5 stars",
+            "Age":"+8",
+            "Catagorey":["Adult Top 3" ,"Top 3 books"] 
+        },
+
+        {
+            "Name":"Lucky",
+            "Made":"by Gambbit",
+            "Price":"$8.99",
+            "Quality":"4.5 stars",
+            "Catagorey":["Adult Top 3 "]
+        },
+
+        {
+            "Name":"Pipo",
+            "Made":"by Sam Susi",
+            "Price":"$19.99",
+            "Quality":"5 stars",
+            "Catagorey":["Adult Top 3 " , "Top 3 Books"]
+        }
+    ]
+}

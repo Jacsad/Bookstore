@@ -1,0 +1,72 @@
+{
+    "JacsadBookStore Delivery Area":["israel", "ukraine" , "canada"] ,
+    "delivery info":[
+        {
+            "area":"israel",
+            "delivery time":"1-3 days",
+            "company":"DHL"
+          
+        },
+
+        {
+            "area":"ukraine",
+            "delivery time":"3-5 days",
+            "company":"DHL"
+           
+        },
+
+        {
+            "area":"canada",
+            "delivery time":"5-7 days",
+            "company":"DHL"
+            
+        }
+    ],
+
+    "our sales":[
+        {
+            "Name":"Sova",
+            "Made":"by Christine Feehan",
+            "OriginalPrice":"$11.99",
+            "After Discount":"4.99$",
+            "Quality":"4 stars",
+            "Age":"+18"
+        
+        },
+
+        {
+            "Name":"Reyna",
+            "Made":"by Tyrus",
+            "OriginalPrice":"$29.99",
+            "After Discount":"15.99$",
+            "Quality":"4.5 stars",
+            "info":"best book of 2021 by customer choise"
+
+            
+        },
+
+        {
+            "Name":"Nikko",
+            "Made":"by Viola Davis",
+            "OriginalPrice":"$19.99",
+            "After Discount":"7.99$",
+            "Quality":"5 stars"
+        
+        }
+    ],
+
+    "Payment methods":[
+      
+        {
+            "Name":"Visa",
+            "info":"save 5%"
+            
+        },
+
+        {
+            "Name":"Paypal",
+            "info":"full price"
+         
+        }
+    ]
+}
